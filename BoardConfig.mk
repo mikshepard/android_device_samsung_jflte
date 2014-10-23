@@ -26,5 +26,8 @@ include device/samsung/jf-common/BoardConfigCommon.mk
 # inherit from the proprietary version
 -include vendor/samsung/jflte/BoardConfigVendor.mk
 
+# TWRP
+DEVICE_RESOLUTION := 1080x1920
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := jflte,jfltexx,i9505,GT-I9505,jgedlte,i9505g,GT-I9505G,jfltevzw,jfltespr,jflterefreshspr,jfltetmo,jfltecri,jfltecsp,jflteatt,jfltecan,jflteusc,jfltezm
