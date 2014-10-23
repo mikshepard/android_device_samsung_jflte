@@ -3,3 +3,5 @@
 # cannot take spaces
 rild.libargs=-d /dev/smd0
 persist.radio.mode_pref_nv10=1
+ro.product.device=jflte
+ro.product.model=Samsung JFLTE
