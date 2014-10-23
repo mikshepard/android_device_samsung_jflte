@@ -1,7 +1,7 @@
 [
   {
-    "remote": "cm",
-    "repository": "android_device_samsung_jflte",
+    "remote": "github",
+    "repository": "mikshepard/android_device_samsung_jflte",
     "target_path": "device/samsung/jflte",
     "revision": "cm-11.0"
   },
